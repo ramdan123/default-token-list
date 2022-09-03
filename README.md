@@ -1,14 +1,14 @@
-# @dogmoneyswap/default-token-list
+# @dogebark/default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the DogMoneySwap interface.
+This NPM module and GitHub repo contains the default token list used in the dogebark interface.
 
 ## Adding a token
 
 To request that we add a token to the list:
   + Open PR adding your token to the list (git clone, yarn install)
-  + [Add PR](https://github.com/dogmoneyswap/assets) with corresponding logo in under the correct blockchain folder
+  + [Add PR](https://github.com/dogebark/assets) with corresponding logo in under the correct blockchain folder
 
-You must have at least 100 DOGE of liquidity on DogMoneySwap to get added to the default list.
+You must have at least 100 DOGE of liquidity on dogebark to get added to the default list.
 
 ### Disclaimer
 
