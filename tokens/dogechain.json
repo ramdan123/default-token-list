@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Doge Bark",
+    "address": "0x7A20Be722D064FEE9e756dC9C281c9413F36700b",
+    "symbol": "DOGEBARK",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.coingecko.com/coins/images/17012/large/shib.png"
+  },
+  {
+    "name": "Staked Dog Money",
+    "address": "0xC5c70fA7A518bE9229eB0Dc84e70a91683694562",
+    "symbol": "xDOGMONEY",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xC5c70fA7A518bE9229eB0Dc84e70a91683694562/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+  },
+  {
+    "name": "Ethereum",
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
+  },
+  {
+    "name": "DogePrint",
+    "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
+    "symbol": "DOGEP",
+    "decimals": 6,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x0755FA2F4AA6311E1D7C19990416c86F17D16F86/logo.png"
+  },
+  {
+    "name": "Doge Eat Doge",
+    "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+    "symbol": "OMNOM",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
+  },
+  {
+    "name": "Doge Inu",
+    "address": "0x8a764cF73438dE795c98707B07034e577Af54825",
+    "symbol": "DINU",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x8a764cF73438dE795c98707B07034e577Af54825/logo.png"
+  },
+  {
+    "name": "WienerDoge",
+    "address": "0xA1D56fE00ca784c4F3414324d1Da6b3Df9A2aCF9",
+    "symbol": "Wiener",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xA1D56fE00ca784c4F3414324d1Da6b3Df9A2aCF9/logo.png"
+  },
+  {
+    "name": "AstroDoge",
+    "address": "0x87b6bd987915b24361cf086490cB9F7e847e533d",
+    "symbol": "ASTRO",
+    "decimals": 9,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x87b6bd987915b24361cf086490cB9F7e847e533d/logo.png"
+  },
+  {
+    "name": "Bourbon",
+    "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+    "symbol": "BOURBON",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B/logo.png"
+  },
+  {
+    "name": "DogeTools",
+    "address": "0x1df5c9B7789BD1416d005C15A42762481C95eDC2",
+    "symbol": "DTools",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x1df5c9B7789BD1416d005C15A42762481C95eDC2/logo.png"
+  },
+  {
+    "name": "Dogira",
+    "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+    "symbol": "DOGIRA",
+    "decimals": 9,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA/logo.png"
+  },
+  {
+    "name": "NotDoge",
+    "address": "0x8578D10a6ef7d26f5AB014138BCC2e3c49331255",
+    "symbol": "NotDoge",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x8578D10a6ef7d26f5AB014138BCC2e3c49331255/logo.png"
+  },
+  {
+    "name": "Dogechain",
+    "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+    "symbol": "DC",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x7B4328c127B85369D9f82ca0503B000D09CF9180/logo.png"
+  }
+]
