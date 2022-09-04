@@ -1,6 +1,6 @@
 {
   "name": "@dogebark/default-token-list",
-  "version": "0.0.9",
+  "version": "0.0.1",
   "description": "◦ The dogebark default token list",
   "main": "build/dogebark-default.tokenlist.json",
   "scripts": {
